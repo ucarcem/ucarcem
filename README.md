@@ -23,8 +23,11 @@ I'm junior engineer working on machine learning control, data-driven methods, an
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-888.vercel.app/api?username=ucarcem&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats-888.vercel.app/api/top-langs/?username=ucarcem&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ucarcem&show_icons=true&theme=dark" alt="ucarcem's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucarcem&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
