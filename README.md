@@ -18,6 +18,7 @@ I'm junior engineer working on machine learning control, data-driven methods, an
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-003366?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-008080?style=for-the-badge&logo=analytics&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 ---
 
